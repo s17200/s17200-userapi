@@ -13,6 +13,34 @@
         "surname":"sonv",
         "email":"sauru@gmail.com",
         "department":"CS"
+      },
+      {
+        "id": 3,
+        "name": "akash",
+        "surname":"sa",
+        "email":"akash@gmail.com",
+        "department":"mech"
+      },
+      {
+        "id": 4,
+        "name": "soumya",
+        "surname":"sonv",
+        "email":"soumya@gmail.com",
+        "department":"etc"
+      },
+      {
+        "id": 5,
+        "name": "himanshu",
+        "surname":"sharma",
+        "email":"himanshu@gmail.com",
+        "department":"civil"
+      },
+      {
+        "id": 6,
+        "name": "versha",
+        "surname":"sonv",
+        "email":"versha@gmail.com",
+        "department":"It"
       }
     ]
   }
