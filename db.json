@@ -1,0 +1,18 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "saurabh",
+        "surname":"sonvane",
+        "email":"saurabh@gmail.com",
+        "department":"IT"
+      },
+      {
+        "id": 2,
+        "name": "sauru",
+        "surname":"sonv",
+        "email":"sauru@gmail.com",
+        "department":"CS"
+      }
+    ]
+  }
